@@ -46,9 +46,9 @@ export default function App() {
 
           </nav>
 
-          <button className="bg-white/10 border border-white/10 px-5 py-2 rounded-full hover:bg-white/20 transition">
+          {/* <button className="bg-white/10 border border-white/10 px-5 py-2 rounded-full hover:bg-white/20 transition">
             Subscribe
-          </button>
+          </button> */}
 
         </div>
       </header>
